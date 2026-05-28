@@ -1,4 +1,4 @@
-# mazonesante
+# MaZoneSante
 Plateforme de cartographie et d’analyse de l’accès aux soins en France.
 
 MaZoneSanté is an open platform designed to map, analyze, and improve healthcare accessibility in France.
